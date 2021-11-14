@@ -1,122 +1,77 @@
 
 
   h1 {
-      color: red;
-    border-style: dotted;
-    font-family: "Courier New",monospace, sans-serif;
+      color: forestgreen;
+    font-family:"yuji syuku";
     font-size:50px;
    padding-left: 10px;
    padding-right: 10px;
+   text-align: center;
   }
 
 #visit{
-  background-color: bisque;
+  background-color:white;
   margin-left: 40px;
   margin-right: 80px;
+  text-align:center;
 } 
 
 #rights{
-  color: grey;
+color:black;
 font-size: x-small;
 }
   
 .container{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:"comfortaa";
   font-size: medium;
-  color: red;
+  color:black;
+  text-align:center;
 }
 
 .search{
-  font-family:fantasy;
-  color:red;
+  font-family:"comfortaa";
+  color:black;
   font-size:40px;
+  text-align:center;
 }
 
 Body {
-background-color:burlywood;
+background-image: url("background-1747777_1280.jpeg");
 border-style: double;
-  border-width: thick;
-  border-color: brown;
+border-width: thick;
+border-color:forestgreen;
+text-align: center;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  width: 100%;
   }
+}
+}
 
-
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
     img {
-        border-radius:50%;
- border-color: brown;
+ border-color:forestgreen;
     border-width: 5px;
-    border-style: solid;
     padding: 10px;
       
     }
 iframe {
     border-radius:50%;
-    border-color: brown;
+    border-color: forestgreen;
     border-width: 5px;
     border-style: solid;
     padding: 10px;
 
 }
 
-.mill h2{
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
-.finisher ol li {
-color:grey;
-}
-
-  .main {
-    background-color:burlywood;
-      }
-
-      .fade-in {
-        animation: fadeIn ease 10s;
-        -webkit-animation: fadeIn ease 10s;
-        -moz-animation: fadeIn ease 10s;
-        -o-animation: fadeIn ease 10s;
-        -ms-animation: fadeIn ease 10s;
-      }
-      @keyframes fadeIn {
-        0% {
-          opacity:0;
-        }
-        100% {
-          opacity:1;
-        }
-      }
-      
-      @-moz-keyframes fadeIn {
-        0% {
-          opacity:0;
-        }
-        100% {
-          opacity:1;
-        }
-      }
-      
-      @-webkit-keyframes fadeIn {
-        0% {
-          opacity:0;
-        }
-        100% {
-          opacity:1;
-        }
-      }
-      
-      @-o-keyframes fadeIn {
-        0% {
-          opacity:0;
-        }
-        100% {
-          opacity:1;
-        }
-      }
-      
-      @-ms-keyframes fadeIn {
-        0% {
-          opacity:0;
-        }
-        100% {
-          opacity:1;
-      }  
+   
