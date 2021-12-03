@@ -1,0 +1,80 @@
+
+
+
+  h1 {
+    color:white;
+  font-family:"yuji syuku";
+  font-size:50px;
+ padding-left: 10px;
+ padding-right: 10px;
+ text-align: center;
+}
+
+#visit{
+background-color:white;
+margin-left: 40px;
+margin-right: 80px;
+text-align:center;
+} 
+
+#rights{
+color:white;
+font-size: x-small;
+}
+
+.container{
+font-family:"comfortaa";
+font-size: medium;
+color:black;
+text-align:center;
+}
+
+.search{
+font-family:"comfortaa";
+color:black;
+font-size:40px;
+text-align:center;
+}
+
+Body {
+background: black;;
+border-style: double;
+border-width: thick;
+border-color:white;
+text-align: center;
+}
+
+.column {
+float: left;
+width: 33.33%;
+padding: 5px;
+width: 100%;
+}
+}
+}
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+
+  img {
+border-color:forestgreen;
+  border-width: 5px;
+  padding: 10px;
+    
+  }
+iframe {
+  border-radius:50%;
+  border-color: forestgreen;
+  border-width: 5px;
+  border-style: solid;
+  padding: 10px;
+
+}
+
+h2{
+color:white;
+}
+

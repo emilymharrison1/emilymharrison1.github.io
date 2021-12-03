@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<HTML lang="en"></HTML>
+<head>
+<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+ <h1>Welcome to the gallery. Here are all my plants for you to enjoy.</h1>
+
+ <div class="image123">
+    <img src="BabyPathos.heic" height="300" width="400" style="align-items: center;">
+    <img src="hang.heic" height="300" width="400">
+    <img src="bigpathos.heic" height="300" width="400">
+
+</div>
+ 
+ </body>
+

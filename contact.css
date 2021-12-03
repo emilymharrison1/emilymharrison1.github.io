@@ -1,0 +1,32 @@
+h1 {
+    color:white;
+  font-family:"yuji syuku";
+  font-size:50px;
+ padding-left: 10px;
+ padding-right: 10px;
+ text-align: center;
+}
+
+Body {
+    background: black;;
+    border-style: double;
+    border-width: thick;
+    border-color:white;
+    text-align: center;
+    }
+
+h3 {
+    color:white;
+    font-family:"yuji syuku";
+    font-size:50px;
+   padding-left: 10px;
+   padding-right: 10px;
+   text-align: center;
+  }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
